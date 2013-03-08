@@ -1,0 +1,9 @@
+Allows you to search for text within a file. Although MS-DOS itself is not case sensitive, 
+when DB typing in the string that you are looking for with the find command, it is case sensitive.
+
+Additionally, this command is used to find text within a file, not the actual file itself DB. 
+If you are wanting to search or find a file with a particular name, use the dir command.
+
+DB
+
+

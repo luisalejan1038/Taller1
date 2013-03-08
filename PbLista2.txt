@@ -1,0 +1,29 @@
+     grep -i "\(D\)\(DB\)" PbLista.txt 
+when DB typing in the string that you are looking for with the find command, it is case sensitive.
+Additionally, this command is used to find text within a file, not the actual file itself DB. 
+DB
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+      grep -i "\(D\)\(DB\)" Line | cat >> PbUnion.txt
+     grep -i "\(D\)\(DB\)" PbLista.txt 
+when DB typing in the string that you are looking for with the find command, it is case sensitive.
+Additionally, this command is used to find text within a file, not the actual file itself DB. 
+DB
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
