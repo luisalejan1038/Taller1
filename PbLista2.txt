@@ -1,29 +1,22 @@
-     grep -i "\(D\)\(DB\)" PbLista.txt 
+Allows you to search for text within a file. Although MS-DOS itself is not case sensitive, 
 when DB typing in the string that you are looking for with the find command, it is case sensitive.
+
 Additionally, this command is used to find text within a file, not the actual file itself DB. 
+If you are wanting to search or find a file with a particular name, use the dir command.
+
 DB
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-      grep -i "\(D\)\(DB\)" Line | cat >> PbUnion.txt
-     grep -i "\(D\)\(DB\)" PbLista.txt 
-when DB typing in the string that you are looking for with the find command, it is case sensitive.
-Additionally, this command is used to find text within a file, not the actual file itself DB. 
-DB
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘type’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
-The ‘like’ DB command in Dos simply displays the contents of a text file or files. To see the content of a file simply enter the following in the command prompt:
+
+
+Output a zero byte (the ASCII NUL character) instead DB of the character that
+normally follows a file name. For example, grep -lZ outputs a zero byte after
+each file name instead of the usual newline.
+This option makes the output unambiguous, even in DB the presence of file names
+containing unusual characters like newlines.
+This option can be used with commands like find -print0, perl -0, sort -z, and
+xargs -0 to process arbitrary file names, even DB those that contain newline characters. 
+Report Unix-style byte offsets.
+This switch causes grep DB to report byte offsets as if the file were a Unix-style text
+file, i.e. with CR characters stripped off. This DB will produce results identical to
+running grep on a Unix machine.
+This option has no effect unles DB s -b option is also used; it has no effect on
+platforms other than MS-DOS and DB MS-Windows.
